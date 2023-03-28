@@ -1,0 +1,95 @@
+.card{
+    margin-top: 30px;
+    display: none;
+}
+.card1{
+    margin-top: 30px;
+    display: block;
+}
+.signup{
+    text-align: center;
+   
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
+    margin-left: 33vw;
+    
+}
+.form label{
+    margin-top: 25px;
+    font-size: large;
+    color: rgb(236, 237, 237);
+    font-weight: bold;
+}
+
+
+.switch{
+    display: flex;
+    flex-direction: row;
+    margin-left: 42vw;
+    margin-top: 10px;
+    
+}
+/* this button is both */
+.bt{
+    margin-right: 10px;
+    width: 70px;
+    height: 25px;
+    background-color: rgb(7, 85, 85);
+    font-weight:bold ;
+    cursor: pointer;
+}
+
+.bt:hover{
+    background-color: rgb(91, 189, 22);
+}
+
+/* Loging  */
+
+.signin{
+    margin-left: 37vw;
+    margin-top: 50px;
+    font-weight: bold;
+}
+.jadu{
+    display: block;
+}
+.jadu1{
+    display: none;
+}
+
+.form1{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+.form1 label{
+    margin-top: 15px;
+}
+.switchl{
+    margin-top: 15px;
+    margin-left: 60px;
+}
+.bt1{
+    margin-left: 10px;
+    width: 70px;
+    font-weight: bold;
+    background-color: antiquewhite;
+}
+.bt1:hover{
+    background-color: rgb(91, 189, 22);
+}
+
+/* this is gender style */
+
+#theGender{
+    margin-top: 15px;
+}
+
+#theGender a{
+    margin-right: 10px;
+    font-weight: bold;
+    color: aliceblue;
+}
